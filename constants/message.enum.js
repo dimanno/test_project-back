@@ -11,4 +11,4 @@ module.exports = {
     USER_DELETED: 'User is delete',
     USER_NOT_FOUND: 'User does not exist',
     WRONG_LOGIN_DATA: 'Wrong email or password',
-}
+};
